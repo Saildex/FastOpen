@@ -1,0 +1,17 @@
+C:\Users\Арслан\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe.config
+C:\Users\Арслан\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe
+C:\Users\Арслан\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.pdb
+C:\Users\Арслан\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Release\ru-RU\WindowsFormsApp1.resources.dll
+C:\Users\Арслан\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Арслан\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Form1.resources
+C:\Users\Арслан\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Арслан\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Form1.ru-RU.resources
+C:\Users\Арслан\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Арслан\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Арслан\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\ru-RU\WindowsFormsApp1.resources.dll
+C:\Users\Арслан\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe
+C:\Users\Арслан\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.pdb
+C:\Users\Арслан\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe.manifest
+C:\Users\Арслан\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.application
+C:\Users\Арслан\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe.manifest
+C:\Users\Арслан\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.application
