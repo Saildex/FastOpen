@@ -1,0 +1,2 @@
+# FastOpen
+FastOpen default apps
